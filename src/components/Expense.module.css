@@ -1,0 +1,71 @@
+.balanceItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.displayItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.expense h2 {
+  margin-bottom: 0px;
+}
+
+.expense h3 {
+  margin-top: 0px;
+}
+
+.expense {
+  border: 1px solid;
+  border-radius: 12px;
+  width: 280px;
+  height: 100px;
+  padding: 5px;
+}
+
+.expense h3 {
+  color: red;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.income {
+  border: 1px solid;
+  border-radius: 12px;
+  width: 280px;
+  height: 100px;
+  padding: 5px;
+}
+
+.income h2 {
+  margin-bottom: 0px;
+}
+
+.income h3 {
+  color: green;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 0px;
+}
+
+.balanceItem button {
+  padding: 10px 20px;
+  background-color: #023047;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  font-size: 15px;
+  padding: 10px 20px;
+}
+
+.balanceItem h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}

@@ -1,0 +1,20 @@
+.items {
+}
+
+.items li {
+  display: flex;
+  border: 2px solid #ccc;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 12px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  border-radius: 3px;
+}
+
+.items button {
+  padding: 10px 20px;
+  background-color: #023047;
+  color: #fca311;
+  border-radius: 10px;
+}

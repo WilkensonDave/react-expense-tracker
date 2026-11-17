@@ -1,0 +1,9 @@
+.filterTransaction {
+}
+
+.filterTransaction select {
+  padding: 10px;
+  color: #444;
+  margin-top: 10px;
+  border-radius: 10px;
+}
